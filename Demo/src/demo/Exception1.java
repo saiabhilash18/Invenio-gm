@@ -8,6 +8,8 @@ public class Exception1{
 	   {
 		   System.out.println(e);
 		   }  
-	   System.out.println("left code");  
+	   
+		  System.out.println("right code");
+			  
 	  }  
 	} 
